@@ -8,9 +8,11 @@ BUSCA-CEP é uma aplicação web construída na Seção 15 das aulas 177 e 178 d
 A aplicação consiste em uma busca de determinado CEP com outros dados como: Rua, Número, Bairro, Cidade e estado, e a busca destes dados são atrevez do API [ViaCEP](https://viacep.com.br/).
 
 ## Layout web
-![Web 1](https://github.com/acenelio/assets/raw/main/sds1/web1.png)
+![img 1](https://github.com/Cecilio-Sil/busca_cep/blob/main/imagens/img1.png)
 
-![Web 2](https://github.com/acenelio/assets/raw/main/sds1/web2.png)
+![img 2](https://github.com/Cecilio-Sil/busca_cep/blob/main/imagens/img2.png)
+
+![img 3](https://github.com/Cecilio-Sil/busca_cep/blob/main/imagens/img3.png)
 
 # Tecnologias utilizadas
 - HTML
