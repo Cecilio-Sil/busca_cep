@@ -26,4 +26,4 @@ A aplicação consiste em uma busca de um determinado CEP, e faz uma requisiçã
 
 # Autor
 Cecílio Neto Moreira Da Silva <br>
-[Clique aqui para ser direcionado a minha página do LinkeDi](https://www.linkedin.com/in/cec%C3%ADlioneto5527a924a/){target="_blank"}
+[Clique aqui para ser direcionado a minha página do LinkedIn](https://www.linkedin.com/in/cec%C3%ADlioneto5527a924a/).
