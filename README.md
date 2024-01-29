@@ -17,4 +17,8 @@ A aplicação consiste em uma busca de determinado CEP com outros dados como: Ru
 # Tecnologias utilizadas
 - HTML
 - CSS
-- JavaScript 
+- JavaScript
+
+# Autor
+Cecílio Neto Moreira Da Silva
+(https://www.linkedin.com/in/cec%C3%ADlioneto5527a924a/)
