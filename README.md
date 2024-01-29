@@ -3,9 +3,14 @@
 
 # Sobre o projeto
 
-BUSCA-CEP é uma aplicação web construída na Seção 15 das aulas 177 e 178 do curso **JavaScript Completo** , curso ofertado na plantaforma Udemy [Omni Academy](https://www.udemy.com/course/javascript-completo-html-css-projetos-profissionais/).
+BUSCA-CEP é uma aplicação web construída na Seção 15 das aulas 177 e 178 do curso **JavaScript Completo**, ofertado na plantaforma Udemy através do centro educacional [Omni Academy](https://www.udemy.com/course/javascript-completo-html-css-projetos-profissionais/).
+Diante disso, este projeto visa colocar em prática:
+- o tratamento de dados recebidos de uma requisição HTTP;
+- A utilização das tecnologias usadas na construção de págiana web  (AJAX);
+- Metodos que são utilizados para fazer requisições;
+- Manipulação do DOM.
 
-A aplicação consiste em uma busca de determinado CEP com outros dados como: Rua, Número, Bairro, Cidade e estado, e a busca destes dados são atrevez do API [ViaCEP](https://viacep.com.br/).
+A aplicação consiste em uma busca de um determinado CEP, e faz uma requisição a uma API[ViaCEP](https://viacep.com.br/) que por sua vez retorna o endereços do CEP inserido que é disponibilizado para o usuário com os campos já preenchidos.
 
 ## Layout web
 ![img 1](https://github.com/Cecilio-Sil/busca_cep/blob/main/imagens/img1.png)
@@ -20,5 +25,5 @@ A aplicação consiste em uma busca de determinado CEP com outros dados como: Ru
 - JavaScript
 
 # Autor
-Cecílio Neto Moreira Da Silva
-(https://www.linkedin.com/in/cec%C3%ADlioneto5527a924a/)
+Cecílio Neto Moreira Da Silva <br>
+https://www.linkedin.com/in/cec%C3%ADlioneto5527a924a/
