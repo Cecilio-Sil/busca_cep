@@ -10,7 +10,7 @@ Diante disso, este projeto visa colocar em prática:
 - Metodos que são utilizados para fazer requisições;
 - Manipulação do DOM.
 
-A aplicação consiste em uma busca de um determinado CEP, e faz uma requisição a uma API[ViaCEP](https://viacep.com.br/) que por sua vez retorna o endereço do CEP inserido que é disponibilizado para o usuário com os campos já preenchidos.
+A aplicação consiste em uma busca de um determinado CEP. Diante disso, esta aplicação faz uma requisição a uma API [ViaCEP](https://viacep.com.br/) que por sua vez retorna o endereço do CEP inserido que é disponibilizado para o usuário com os campos definidos já preenchidos.
 
 ## Layout web
 ![img 1](https://github.com/Cecilio-Sil/busca_cep/blob/main/imagens/img1.png)
